@@ -12,5 +12,6 @@ Some of the screenshots of the quiz game:
 ![image](https://github.com/Tarun21p/quiz/assets/127124654/0a91d693-b04b-4894-a494-662c66ad3e54)
 
 
-![image](https://github.com/Tarun21p/quiz/assets/127124654/789474b5-2678-49b5-9438-d8d9087109aa)
+![image](https://github.com/Tarun21p/Quiz-Game/assets/127124654/c3ccf22e-f243-4766-a999-4bfad944fdb4)
+
 
